@@ -8,19 +8,27 @@
 	<name>Proxima Centauri</name>
 	<rightascension>14 39 36.204</rightascension>
 	<declination>-60 50 08.23</declination>
-	<distance errorminus="0.0045" errorplus="0.0045">1.295</distance>
+	<distance errorminus="0.0011" errorplus="0.0011">1.3384</distance>
 	<binary>
-		<semimajoraxis>15000</semimajoraxis>
+		<separation errorminus="260" erorplus="260">12947</separation>
+		<semimajoraxis>9220</semimajoraxis>
+		<eccentricity errorminus="0.09" errorplus="0.08">0.50</eccentricity>
+		<period errorminus="15000000" errorplus="24000000">103400000</period>
+		<inclination errorminus="2.0" errorplus="1.8">107.6</inclination>
+		<ascendingnode errorminus="5" errorplus="5">126</ascendingnode>
+		<periastron errorminus="6.6" errorplus="8.7">72.3</periastron>
+		<periastrontime errorminus="15000000" errorplus="22000000">105800000</periastrontime>
 		<star>
 			<name>Proxima Centauri</name>
 			<name>α Centauri C</name>
 			<name>GL 551</name>
 			<name>HIP 70890</name>
 			<name>Proxima</name>
+			<magK errorminus="0.033" errorplus="0.033">4.384</magK>
 			<temperature errorminus="100" errorplus="100">3050</temperature>
-			<radius errorminus="0.019" errorplus="0.022">0.141</radius>
-			<mass errorminus="0.015" errorplus="0.014">0.120</mass>
-			<spectraltype>M5.5V</spectraltype>
+			<radius errorminus="0.0045" errorplus="0.0045">0.1542</radius>
+			<mass errorminus="0.0022" errorplus="0.0022">0.1221</mass>
+			<spectraltype>M5.5 V</spectraltype>
 			<planet>
 				<name>Proxima Centauri b</name>
 				<name>α Centauri C b</name>
@@ -147,7 +155,7 @@
 					<description>Alpha Centauri is one of the brightest stars in the southern sky (in fact, it is a triple system). The planet candidate Alpha Centauri Bb was announced as the nearest exoplanet to Earth and also the lightest exoplanet ever discovered around a Sun-like star. The candidate was detected using the HARPS instrument on the 3.6-metre telescope at ESO's La Silla Observatory in Chile. The planet's existence was challenged by Hatzes (2013) and was shown to be likely an artifact caused by the data sampling by Rajpaul et al. (2015).</description>
 					<image>AlphaCentauriB</image>
 					<imagedescription>This artist's impression shows the planet orbiting the star Alpha Centauri B, a member of the triple star system that is the closest to Earth. Alpha Centauri B is the most brilliant object in the sky and the other dazzling object is Alpha Centauri A. Our own Sun is visible to the upper right. The tiny signal of the planet was found with the HARPS spectrograph on the 3.6-metre telescope at ESO's La Silla Observatory in Chile.
-			
+
 				Credit:	ESO/L. Calcada</imagedescription>
 					<list>Planets in binary systems, S-type</list>
 				</planet>
